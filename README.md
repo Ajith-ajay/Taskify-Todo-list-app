@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+A new Flutter project. Taskify a Todo list manager useful for many people
 
 ## Getting Started
 
