@@ -13,6 +13,7 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile Development . 
 
-The API from the TMDB was fully free API that give the details about the trending movies. 
+
+Hi this was a basic app to learn the flutter basic... for advance integrate it with local give storage or cloud storage.
